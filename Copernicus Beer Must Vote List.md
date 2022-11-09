@@ -3,6 +3,9 @@
 ## Introduction
 This document describes the elements of Copernicus Beer that needs voting in order to change. A consensus vote is needed to change an element on this list.
 
+## Voting types
+* *Consensus vote:* Currently consensus is reached when 1/3 of the tokens that is not in the vault vote in favour of a proposal.
+
 ## Must vote list
 
 
